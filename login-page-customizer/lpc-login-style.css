@@ -1,0 +1,69 @@
+/*!* Custom CSS for the WordPress login page *!*/
+
+/*body.login {*/
+/*    background: linear-gradient(to bottom right, #ffffff, #000000); !* Default gradient background for login page *!*/
+/*    background-size: cover;*/
+/*    background-repeat: no-repeat;*/
+/*    background-position: center;*/
+/*}*/
+
+/*.login #login {*/
+/*    background: rgba(255, 255, 255, 0.9); !* Background color for login form *!*/
+/*    border: 1px solid #ddd; !* Border around login form *!*/
+/*    border-radius: 8px;*/
+/*    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); !* Box shadow for login form *!*/
+/*    margin-top: 20px; !* Space between form and top *!*/
+/*    max-width: 320px; !* Max width of the login form *!*/
+/*    padding: 20px; !* Padding inside the login form *!*/
+/*    position: relative;*/
+/*    text-align: center; !* Center align form elements *!*/
+/*}*/
+
+/*.login #login h1 {*/
+/*    text-align: center; !* Center align text inside h1 *!*/
+/*}*/
+
+/*.login #login form h1 a {*/
+/*    display: block;*/
+/*    width: 141px; !* Set the width of the logo *!*/
+/*    height: 136px; !* Set the height of the logo *!*/
+/*    padding-left: 100px;*/
+/*    background-image: url('image.png'); !* Replace with your actual image path *!*/
+/*    background-size: contain;*/
+/*    background-repeat: no-repeat;*/
+/*    text-indent: -9999px; !* Hide text *!*/
+/*    margin: 0 auto; !* Center horizontally *!*/
+/*    margin-top: 100px; !* Adjust vertical margin as needed *!*/
+
+/*}*/
+
+
+
+/*.login #login form .button-primary {*/
+/*    background-color: #0073aa; !* Default button background color *!*/
+/*    border-color: #0073aa; !* Default button border color *!*/
+/*    color: #fff; !* Default button text color *!*/
+/*    text-shadow: none; !* Remove text shadow *!*/
+/*    display: block; !* Display as block element *!*/
+/*    width: 80%; !* Adjust width as needed *!*/
+/*    margin: 20px auto; !* Top and bottom margin with auto horizontal margins to center *!*/
+/*    padding: 10px 0; !* Adjust padding as needed *!*/
+/*    cursor: pointer; !* Optional: Change cursor on hover *!*/
+
+/*}*/
+
+/*.login #login form {*/
+/*    text-align: center; !* Center align form elements *!*/
+/*}*/
+
+/*.login #login form .button-primary:hover {*/
+/*    background-color: #006799; !* Hover button background color *!*/
+/*    border-color: #006799; !* Hover button border color *!*/
+/*    color: #fff; !* Hover button text color *!*/
+/*}*/
+
+/*.login #login .forgetmenot {*/
+/*    float: none; !* No float for 'Remember Me' *!*/
+/*    margin-top: 10px; !* Space between 'Remember Me' and 'Log In' *!*/
+/*    text-align: center; !* Center align 'Remember Me' *!*/
+/*}*/
