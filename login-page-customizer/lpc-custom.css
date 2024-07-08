@@ -8,43 +8,9 @@
     flex: 1;
     margin-right: 20px;
 }
-
-.lpc-form-container label,
-.lpc-form-container select,
-.lpc-form-container input[type="submit"] {
-    display: block;
-    margin-bottom: 10px;
-}
-
-.lpc-preview-container {
-    flex: 2;
-    border: 1px solid #ccc;
-    padding: 20px;
-    background-color: #f9f9f9;
-}
-
-.jscolor {
-    width: 100%;
-    padding: 5px;
-    margin-bottom: 20px;
-}
-
-.lpc-login-form-container {
-    background: #fff;
-    border: 1px solid #ddd;
-    margin-top: 20px;
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 400px;
-}
-
-/* Add this to style the login form preview */
-.lpc-login-form-container form {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 5px;
-    width: 320px;
-    text-align: center;
-}
+.lpc-preview-background {
+     background-color: #fff; /* Set a desired background color */
+     width: 400px;  /* Set the desired width */
+     height: 300px; /* Set the desired height */
+     /* Add other styles as needed (padding, border, etc.) */
+ }
